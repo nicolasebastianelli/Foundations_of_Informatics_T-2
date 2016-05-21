@@ -1,0 +1,14 @@
+A01, Prosciutto e melone, ANTIPASTO, 9.00
+A02, Antipasto di mare, ANTIPASTO, 8.00
+P01, Trenette al pesto, PRIMO, 6.50
+P02, Linguine all'astice, PRIMO, 9.50
+P03, Lasagne vegetariane, PRIMO, 5.50
+P04, Lasagne alla bolognese, PRIMO, 8.50
+S01, Bistecca alla griglia, SECONDO, 7.00
+S02, Scaloppina alla pizzaiola, SECONDO, 9.00
+S03, Scaloppina al vino bianco, SECONDO, 9.00
+S04, Branzino alla griglia, SECONDO, 16.00
+S05, Stinco al forno, SECONDO, 19.00
+S06, Cotoletta alla milanese, SECONDO, 14.00
+D01, Mascarpone al cioccolato, DESSERT, 5.00
+D02, Frutta di stagione, DESSERT, 4.00

@@ -1,0 +1,11 @@
+11111	PASTA	Spaghetti Dentilla 3 500g
+11114	PASTA	Spaghetti Dentilla 5 500g
+11116	PASTA	Rigatoni Zannoni
+22222	CARNE	Pollo intero
+22223	CARNE	Mezzo pollo
+22224	CARNE	Pollo arrosto
+22225	CARNE	Petto di pollo 300g
+22226	CARNE	Costata di manzo 400g
+33333	PESCE	Filetti di merluzzo 300g
+33334	PESCE	Trancio di pesce spada
+33335	PESCE	Orata

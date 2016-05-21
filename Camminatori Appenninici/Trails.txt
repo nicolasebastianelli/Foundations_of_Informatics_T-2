@@ -1,0 +1,5 @@
+GCA129, Segavecchia (925), Corno alle Scale (1725), 3.8 km, Difficolta 2
+GCA000, Corno alle Scale (1725), Punta Corno (1732), 1.1 km, Difficolta 3
+GCA121, Punta Corno (1732), Ponte del Ruscello (1005), 3.4 km, Difficolta 1
+GCA111, Pian Verde (822), Val Bona (490), 5.0 km, Difficolta 2
+GCA109, Val Bona (490), Cima Zanna (1233), 3.5 km, Difficolta 1

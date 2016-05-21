@@ -1,0 +1,34 @@
+ITINERARIO ATTUALE:
+GCA129; Segavecchia (925.0); Corno alle Scale (1725.0)
+GCA000; Corno alle Scale (1725.0); Punta Corno (1732.0)
+GCA121; Punta Corno (1732.0); Ponte del Ruscello (1005.0)
+
+Dislivello max:   807.0
+Lunghezza totale: 8.3
+Difficolta max:   HIGH
+
+Difficolta media: 1,55
+==========================================================================
+
+ITINERARIO ATTUALE:
+GCA000; Corno alle Scale (1725.0); Punta Corno (1732.0)
+
+Dislivello max:   7.0
+Lunghezza totale: 1.1
+Difficolta max:   HIGH
+
+Difficolta media: 3
+==========================================================================
+
+ITINERARIO ATTUALE:
+GCA129; Segavecchia (925.0); Corno alle Scale (1725.0)
+GCA000; Corno alle Scale (1725.0); Punta Corno (1732.0)
+GCA121; Punta Corno (1732.0); Ponte del Ruscello (1005.0)
+
+Dislivello max:   807.0
+Lunghezza totale: 8.3
+Difficolta max:   HIGH
+
+Difficolta media: 1,55
+==========================================================================
+

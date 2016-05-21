@@ -1,0 +1,12 @@
+STRATEGIA	Cioccolata	SU	480	ORE
+Caffè = 2, Cioccolata = -1
+FINE STRATEGIA
+STRATEGIA	Caffè	SU	480	ORE
+Caffè = -2, Cioccolata = 1
+FINE STRATEGIA
+STRATEGIA	Orzo	SU	240	ORE
+Caffè = 2, Cioccolata = -1, Orzo = -1
+FINE STRATEGIA
+STRATEGIA	Latte Aroma Acciuga	SU	72	ORE
+Caffè = 1, Cioccolata = 1, Orzo = 1, Latte = 1, Cappuccino = 1
+FINE STRATEGIA

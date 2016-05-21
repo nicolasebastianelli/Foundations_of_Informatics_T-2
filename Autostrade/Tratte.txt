@@ -1,0 +1,19 @@
+pc  	11	0.60	Piacenza nord, Piacenza sud
+pc-pr	53	3.50	Fiorenzuola, Fidenza, Parma
+pr-mo	48	3.10	Canossa, Reggio Emilia, Modena Nord
+mo	 	2	0.00	
+mo-bo	31	2.40	Modena Sud, Crespellano, Bologna Ovest
+bo	 	5	0.40	Bologna Ovest, Bologna Sud, Bologna Est, Bologna Nord
+bo-fi	97	7.20	Sasso Marconi, Rioveggio, Roncobilaccio, Barberino
+fi		28	1.80	Firenze Nord, Firenze Scandicci, Firenze Certosa, Firenze Sud
+bo-rn	104	6.70	Imola, Faenza, Forlì, Cesena, Rimini
+mo-vr	97	5.80	Campogalliano, Carpi, Reggiolo, Mantova, Nogarole Rocca
+vr		6	0.70	Verona Sud, Verona Est, Verona Nord
+vr-tn	87	6.00	Affi, Rovereto Sud, Rovereto Nord, Trento Sud, Trento Centro
+tn-bz	65	4.60	Trento Nord, San Michele, Egna-Ora, Bolzano Sud
+bz-bre	78	5.60	Bolzano Nord, Chiusa, Bressanone, Vipiteno, Confine di Stato
+vr-pd	75	4.60	Soave, Montebello, Montecchio, Vicenza, Padova Ovest
+pd		12	0.80	Padova Sud, Padova ZI, Padova est
+pd-ve	42	3.70	Dolo, Mira, Mestre, Venezia
+pd-ro	36	2.30	Terme Euganee, Monselice, Boara, Rovigo
+ro-bo	77	4.90	Rovigo Sud, Occhiobello, Ferrara, Ferrara Sud, Altedo

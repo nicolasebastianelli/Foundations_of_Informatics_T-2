@@ -1,0 +1,6 @@
+FIRENZE	S.M.N./FI01, Campo Marte/FI02, Rifredi/FI03
+VENEZIA	S.Lucia/VE01, Mestre/VE02
+BOLOGNA	Centrale/BO00
+REGGIO EMILIA	C.le/RE00, AV Mediopadana/RE01
+TORINO	P.N./TO00, P.S./TO01
+MILANO	C.le/MI00, Porta Garibaldi/MI01, Rogoredo/MI02, Lambrate/MI03, Rho Fiera Expo/MI04

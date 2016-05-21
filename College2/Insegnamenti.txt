@@ -1,0 +1,26 @@
+27991, Analisi matematica 1,		MAT/05, 	 9, OBBLIGATORIO, S1
+28004, Fondamenti di Informatica 1,	ING-INF/05, 12, OBBLIGATORIO, S1
+29228, Geometria e Algebra,			MAT/03, 	 6, OBBLIGATORIO, S1
+26338, Inglese B1,					NOSECTOR,	 3, OBBLIGATORIO, S1
+27993, Analisi matematica 2,		MAT/05, 	 6, OBBLIGATORIO, S2
+27996, Fisica 1,					FIS/01, 	 6, OBBLIGATORIO, S2
+28006, Fondamenti di Informatica 2,	ING-INF/05, 12, OBBLIGATORIO, S2
+28011, Reti logiche,				ING-INF/05,  6, OBBLIGATORIO, S2
+28012, Calcolatori elettronici,		ING-INF/05,  6, OBBLIGATORIO, S1
+28000, Fisica 2,					FIS/01, 	 6, OBBLIGATORIO, S1
+28032, Matematica applicata,		MAT/06, 	 6, OBBLIGATORIO, S1
+28027, Sistemi informativi,			ING-INF/05,  9, OBBLIGATORIO, S1
+28030, Economia e azienda,			ING-IND/35,	 6, OBBLIGATORIO, S2
+28029, Elettrotecnica,				ING-IND/31,	 6, OBBLIGATORIO, S2
+28014, Comunicazioni,				ING-INF/03,	 9, OBBLIGATORIO, S2
+28020, Sistemi operativi,			ING-INF/05,  9, OBBLIGATORIO, S2
+28024, Reti di calcolatori,			ING-INF/05,  9, OBBLIGATORIO, S1
+28016, Elettronica,					ING-INF/01,	 9, OBBLIGATORIO, S1
+28015, Controlli automatici,		ING-INF/04,	 9, OBBLIGATORIO, S1
+28021, Ingegneria del software,		ING-INF/05,  9, OBBLIGATORIO, S2
+17268, Prova finale,				NOSECTOR,	 6, OBBLIGATORIO, S2
+28072, Amministrazione di sistemi,	ING-INF/05,  9, A SCELTA,     S2
+28074, Tirocinio,					ING-INF/05,	 9, A SCELTA,     S2
+28659, Tecnologie web,				ING-INF/05, 12, A SCELTA,     S2
+32099, Diritto dell'informatica,	IUS/20,	     6, A SCELTA,     S2
+38378, Affidabilità e qualità,		ING-INF/07,  9, A SCELTA,	  S2

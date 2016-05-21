@@ -1,0 +1,12 @@
+11111,  Market Dentinia, 18/01/2014, 0.95
+11111,  Market Zannonia, 19/01/2014, 1.05
+11111,  Market Sperduto, 19/01/2014, 1.55
+11114,  Market Dentinia, 18/01/2014, 1.30
+11114,  Market Zannonia, 19/01/2014, 1.25
+22222,  Market Zannonia, 19/01/2014, 3.25
+22222,  Market Sperduto, 19/01/2014, 3.70
+22224,  Market Zannonia, 19/01/2014, 4.25
+22224,  Market Sperduto, 19/01/2014, 5.80
+22224,  Market Dentinia, 20/01/2014, 4.10
+33333,  Market Dentinia, 20/01/2014, 3.10
+33333,  Market Sperduto, 20/01/2014, 4.80

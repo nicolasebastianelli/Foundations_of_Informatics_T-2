@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="**/.svn/" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/Home/Didattica/Bologna/2012-2013/Fond 2012-13/repo 2012-13/Esami/Soluzioni/2014-01-08/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

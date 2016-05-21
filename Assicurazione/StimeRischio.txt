@@ -1,0 +1,22 @@
+Bologna | febbraio 2013 20%
+Bologna | settembre 2013 30%
+Bologna | luglio 2013 70%
+Bologna | dicembre 2013 5%
+Bologna | febbraio 2014 10%
+Bologna | settembre 2014 25%
+Bologna | luglio 2014 60%
+Bologna | dicembre 2014 7%
+Marina di Ravenna | gennaio 2014 80%
+Marina di Ravenna | aprile 2014 30%
+Marina di Ravenna | giugno 2014 5%
+Marina di Ravenna | ottobre 2014 50%
+Ferrara | marzo 2015 5%
+Ferrara | settembre 2015 30%
+Reggio Emilia | gennaio 2015 10%
+Reggio Emilia | luglio 2015 50%
+Ferrara | dicembre 2015 10%
+Reggio Emilia | settembre 2015 10%
+Marina di Ravenna | gennaio 2015 80%
+Marina di Ravenna | aprile 2015 30%
+Marina di Ravenna | giugno 2015 5%
+Marina di Ravenna | ottobre 2015 50%

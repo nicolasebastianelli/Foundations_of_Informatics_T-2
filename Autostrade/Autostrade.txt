@@ -1,0 +1,5 @@
+Z1  pc pc-pr pr-mo mo mo-bo bo bo-fi fi 
+Z14 bo bo-rn
+Z22 mo mo-vr vr vr-tn tn-bz bz-bre
+Z4E vr vr-pd pd pd-ve
+Z13 pd pd-ro ro-bo bo

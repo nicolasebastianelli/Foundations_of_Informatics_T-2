@@ -1,0 +1,10 @@
+Codice Segreto
+Magenta	Magenta	Verde	Rosso
+
+Rosso	Grigio	Blu	GialloBianco
+Verde	Rosso	Ciano	ArancioBianco | Bianco
+Magenta	Blu	Arancio	CianoNero
+Blu	Blu	Verde	VerdeNero
+Giallo	Giallo	Arancio	VerdeBianco
+Grigio	Blu	Verde	CianoNero
+Magenta	Magenta	Verde	RossoNero | Nero | Nero | Nero ****

@@ -1,0 +1,6 @@
+SEGGI: 15
+Topolini Gialli: 7460
+Gufi Neri:      2040
+Farfalle blu:   3482
+Formiche Rosse: 8748
+Bruchi verdi:   8922
