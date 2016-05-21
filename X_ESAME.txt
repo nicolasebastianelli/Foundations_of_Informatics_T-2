@@ -1,0 +1,156 @@
+Type:
+
+List<E> result = new ArrayList<>();                 (Lista)
+SortedSet<E> result = new TreeSet<>();              (Lista ordinata senza ripetizioni con ordinamento automatico)
+Set<E> result = new HashSet<>();                    (Lista senza ripetizioni)
+Map<String, var> map = new HashMap<>();             (creazione di una mappa)
+map.keySet();                                       (restituisce un set con le chiavi della mappa)
+List<var> list = new ArrayList<var>(map.values());  (conversione da mappa a lista)
+result.contains(var);                               (restituisce true se var è presente in result)
+
+Optional:
+
+Optional<Stop> result = null;                       (optional non inizializzato)
+Optional<Stop> result = Optional.of(stop);          (optional della variabile stop)
+Optional<Stop> result = Optional.empty;             (optional viene inizializzato come vuoto)
+result.isPresent();                                 (restituisce true se l'optional non è vuoto o nullo)
+result.get();                                       (restituisce la variabile contenuta nell'optional)
+
+StringBuilder:
+
+StringBuilder text = new StringBuilder();           (Inizzializzo)
+text.append(var.toString() + " ");                  (aggiungo a text ciò che cè tra parentesi)
+text.append("\n");                                  (aggiungo a text ciò che cè tra parentesi)
+text.toString;					    (Trasforma lo StringBuilder in stringa)
+
+DayOfWeek:
+
+DayOfWeek[] days = new DayOfWeek[ds.length];        (creazione di DayOfWeek)
+DayOfWeek.of(num);                                  (restituisce un DayOfWeek in base al numero della settimana inserito)                                        
+
+Duration:
+
+Duration.between(Temporal1, Temporal2);             (restituisce la durata tra due Temporal come un LocalTime)
+Duration d1 = Duration.ofDays(1);                   (restituisce la durata di 1 giorno)
+d1.plusHours(3);				    (aggiunge 3 ore alla durata)
+
+LocalDateTime:
+
+LocalDate xmas2015 = LocalDate.of(2015, 12, 25);    (crea una data)
+LocalTime noon = LocalTime.of(12, 0);               (crea un ora)
+LocalDate xmas2016 = xmas2015.plusYears(1);         (crea e aggiunge un anno alla data)
+
+DateTimeFormat:
+
+DateTimeFormat f = 
+DateTimeFormat.ofLocalizedDate(FormatStyle.SHORT); (crea un formatter per data di tipo short)
+DateTimeFormatter formatterShort =
+DateTimeFormatter.ofLocalizedTime(FormatStyle.SHORT); (crea un formatter per ora di tipo short)
+
+FormatStyle:
+
+FormatStyle.SHORT           =            3/18/15      -------   22.38
+FormatStyle.MEDIUM          =            Mar 18, 2015 -------   22.38.48
+FormatStyle.LONG            =            March 18, 2015
+FormatStyle.FULL            =            Wednesday, March 18, 2015
+
+NumberFormatter:
+
+NumberFormat numberFormat = NumberFormat.getNumberInstance(Locale.ITALY); (setta il formatter italiano)
+Number value = numberFormat.parse(String prezzo);                         (effettua il parse da stringa con €)
+float prezzo = value.floatValue();                                        (trasforma il Number in float)
+x = 1243.5678;								
+NumberFormat formattatoreEUR
+= NumberFormat.getCurrencyInstance();                                     (prende l'istanza attuale di formatter cioè Italiana)
+String res = formattatoreEUR.format(x);					  (trasforma da float a stringa con €)
+
+Parse LocalDateTime:
+LocalDateTime myDateTime =
+LocalDateTime.parse("13/01/2012 20.04", formatter); (crea un LocalDateTime da una stringa)
+
+Jspinner:
+
+package trains.ui;
+
+
+import java.time.LocalDate;
+
+import java.util.Date;
+
+
+import javax.swing.JSpinner;
+
+import javax.swing.SpinnerDateModel;
+
+
+import trains.util.DateConverter;
+
+
+public class TrainDateSpinner extends JSpinner {
+
+
+	private static final long serialVersionUID = 1L;
+
+
+
+	public TrainDateSpinner() {
+
+		super(new SpinnerDateModel());
+
+		JSpinner.DateEditor dateEditor = new JSpinner.DateEditor(this,
+"E dd/MM/yyyy");
+
+		setEditor(dateEditor);
+
+
+	}
+
+
+	public LocalDate getDateValue() {
+
+		return DateConverter.asLocalDate((Date) getValue());
+
+
+	}
+
+
+}                                                (creazione classe Jspinner)
+
+
+BynaryFile:
+
+FileInputStream f = new FileInputStream("nome.dat")     (Apertura file in lettura)
+ObjectInputStream ois = new ObjectInputStream(f);       (creazione lettura per oggetto)
+Partita result = (Partita) ois.readObject();            (lettura oggetto)
+
+FileOutputStream new FileOutputStream(FileName)         (Apertura file in lettura)
+ObjectOutputStream oos = new ObjectOutputStream(dest);  (creazione scrittura file)
+oos.writeObject(partita);                               (scrive l'oggetto nel file)
+
+TxtFile:
+
+PrintWriter dest = new PrintWriter(new FileWriter("nome.txt"));    (creazione del printwriter)
+BufferedWriter writer = new BufferedWriter(dest);                  (creazione del bufferedwriter)
+writer.write(" ");                                                 (scrittura)
+writer.newLine();                                                  (nuova riga)
+writer.close();                                                    (chiusura)
+
+FileReader f = new FileReader("f.txt");                            (creazione del file reader)
+BufferedReader br = new BufferedReader(f);                         (creazione del BufferedReader)
+String line = br.readLine();                                       (lettura di una riga)
+StringTokenizer tokenizer = new StringTokenizer(line, "\t\n\r");   (creazione del tokenizer)
+line.toUpperCase().startsWith(" ");                                (restituisce true se contiene ciò che è stato inserito)
+tokenizer.countTokens();  					   (restituisce il numero di token contenuto nella riga)
+
+Comparable:
+
+implements Comparable<Oroscopo>
+public int compareTo(Oroscopo that) {
+		int z1 = this.getSegnoZodiacale().ordinal(), z2 = that
+				.getSegnoZodiacale().ordinal();
+		return z1 < z2 ? -1 : (z1 == z2 ? 0 : 1);}         (esempio di comparable)
+	
+
+Math:
+
+math.round                                                         (arrotonda all'intero più vicino)
